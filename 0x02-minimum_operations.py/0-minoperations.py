@@ -17,7 +17,7 @@ in the file (initially 1, since we start with one H).
      perform All operations (n // H) times.
      Update H to be H * (n // H)(since we’ve added more H characters).
      increment operations by (n // H) (since we performed many operations).
-# Return the final value of operations
+# return the final value of operations
 """
 
 
