@@ -25,9 +25,6 @@ def minOperations(n: int) -> int:
        increment operations by (n // H) (since we performed many operations).
     # return the final value of operations
     """
-    if not isinstance(n, int) or n <= 0:
-        return 0
-
     ops = 0
     single_char = 1
 
