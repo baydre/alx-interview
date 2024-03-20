@@ -8,7 +8,7 @@ n = number given, result = ?
 """
 
 
-def minOperations(n: int) -> int:
+def minOperations(n: int):
     """
     returns exactly n-H characters in the file.
 
